@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="heading">100sp</dimen>
+    <dimen name="text_inside">30sp</dimen>
+    <dimen name="price_displayed">25sp</dimen>
+    <dimen name="space_1">8dp</dimen>
+    <dimen name="space_2">16dp</dimen>
+    <dimen name="space_3">12dp</dimen>
+    <dimen name="buttons">15sp</dimen>
+    <dimen name="quantity_number1">20sp</dimen>
+    <dimen name="button_di">48dp</dimen>
+    <dimen name="price_top">5dp</dimen>
+    <dimen name="space_4">10dp</dimen>
+</resources>
